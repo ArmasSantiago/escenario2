@@ -22,7 +22,7 @@ cd ns-allinone-3.28.1
 ./waf 
 
 == Ejecuta el escenario == 
-El escenario 1 se guarda en la carpeta ns-3.28.1/src/p1906/mol.example.cc
+El escenario 2 se guarda en la carpeta ns-3.28.1/src/p1906/mol.example.cc
 
 cp ns-3.28.1/p1906/example/mol-example.cc scratch
 ./waf --run scratch/mol-example
